@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+body{
+	margin: 10px;
+	background-image: url('../img/books.jpg');
+	background-size: 160px 240px;
+	background-repeat: no-repeat;
+	background-position: 100% 0%;
+}
+
+.previous a, .previous-inactive a{
+	border-left-width: 1px;
+}
+
+.pagination{
+	margin-bottom: 0px;
+}
+
+.center{
+	margin: 0 auto;
+}
+
+.txt-c{
+	text-align: center;
+}
